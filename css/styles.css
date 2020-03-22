@@ -1,0 +1,13 @@
+p {
+   text-align: center;
+   color: green;
+   margin-top: '20%';
+}
+
+.container {
+   margin: auto;
+   margin-top: 7%;
+   margin-right: auto;
+   margin-left: auto;
+ }
+
